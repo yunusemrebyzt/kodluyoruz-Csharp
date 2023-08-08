@@ -1,0 +1,15 @@
+C:\Users\Yunus Emre\Desktop\CsOdev1\bin\Debug\net7.0\CsOdev1.exe
+c:\Users\Yunus Emre\Desktop\CsOdev1\bin\Debug\net7.0\CsOdev1.deps.json
+c:\Users\Yunus Emre\Desktop\CsOdev1\bin\Debug\net7.0\CsOdev1.runtimeconfig.json
+C:\Users\Yunus Emre\Desktop\CsOdev1\bin\Debug\net7.0\CsOdev1.dll
+C:\Users\Yunus Emre\Desktop\CsOdev1\bin\Debug\net7.0\CsOdev1.pdb
+C:\Users\Yunus Emre\Desktop\CsOdev1\obj\Debug\net7.0\CsOdev1.csproj.AssemblyReference.cache
+C:\Users\Yunus Emre\Desktop\CsOdev1\obj\Debug\net7.0\CsOdev1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yunus Emre\Desktop\CsOdev1\obj\Debug\net7.0\CsOdev1.AssemblyInfoInputs.cache
+C:\Users\Yunus Emre\Desktop\CsOdev1\obj\Debug\net7.0\CsOdev1.AssemblyInfo.cs
+C:\Users\Yunus Emre\Desktop\CsOdev1\obj\Debug\net7.0\CsOdev1.csproj.CoreCompileInputs.cache
+C:\Users\Yunus Emre\Desktop\CsOdev1\obj\Debug\net7.0\CsOdev1.dll
+C:\Users\Yunus Emre\Desktop\CsOdev1\obj\Debug\net7.0\refint\CsOdev1.dll
+C:\Users\Yunus Emre\Desktop\CsOdev1\obj\Debug\net7.0\CsOdev1.pdb
+c:\Users\Yunus Emre\Desktop\CsOdev1\obj\Debug\net7.0\CsOdev1.genruntimeconfig.cache
+c:\Users\Yunus Emre\Desktop\CsOdev1\obj\Debug\net7.0\ref\CsOdev1.dll
