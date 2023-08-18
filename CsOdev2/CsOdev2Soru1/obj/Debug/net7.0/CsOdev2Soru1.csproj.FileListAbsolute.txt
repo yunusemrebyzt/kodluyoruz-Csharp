@@ -1,0 +1,15 @@
+C:\Users\Yunus Emre\Desktop\CsOdev2Soru1\bin\Debug\net7.0\CsOdev2Soru1.exe
+C:\Users\Yunus Emre\Desktop\CsOdev2Soru1\bin\Debug\net7.0\CsOdev2Soru1.deps.json
+C:\Users\Yunus Emre\Desktop\CsOdev2Soru1\bin\Debug\net7.0\CsOdev2Soru1.runtimeconfig.json
+C:\Users\Yunus Emre\Desktop\CsOdev2Soru1\bin\Debug\net7.0\CsOdev2Soru1.dll
+C:\Users\Yunus Emre\Desktop\CsOdev2Soru1\bin\Debug\net7.0\CsOdev2Soru1.pdb
+C:\Users\Yunus Emre\Desktop\CsOdev2Soru1\obj\Debug\net7.0\CsOdev2Soru1.csproj.AssemblyReference.cache
+C:\Users\Yunus Emre\Desktop\CsOdev2Soru1\obj\Debug\net7.0\CsOdev2Soru1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yunus Emre\Desktop\CsOdev2Soru1\obj\Debug\net7.0\CsOdev2Soru1.AssemblyInfoInputs.cache
+C:\Users\Yunus Emre\Desktop\CsOdev2Soru1\obj\Debug\net7.0\CsOdev2Soru1.AssemblyInfo.cs
+C:\Users\Yunus Emre\Desktop\CsOdev2Soru1\obj\Debug\net7.0\CsOdev2Soru1.csproj.CoreCompileInputs.cache
+C:\Users\Yunus Emre\Desktop\CsOdev2Soru1\obj\Debug\net7.0\CsOdev2Soru1.dll
+C:\Users\Yunus Emre\Desktop\CsOdev2Soru1\obj\Debug\net7.0\refint\CsOdev2Soru1.dll
+C:\Users\Yunus Emre\Desktop\CsOdev2Soru1\obj\Debug\net7.0\CsOdev2Soru1.pdb
+C:\Users\Yunus Emre\Desktop\CsOdev2Soru1\obj\Debug\net7.0\CsOdev2Soru1.genruntimeconfig.cache
+C:\Users\Yunus Emre\Desktop\CsOdev2Soru1\obj\Debug\net7.0\ref\CsOdev2Soru1.dll

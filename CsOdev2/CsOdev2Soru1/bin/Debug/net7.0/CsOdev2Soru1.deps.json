@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "CsOdev2Soru1/1.0.0": {
+        "runtime": {
+          "CsOdev2Soru1.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CsOdev2Soru1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
