@@ -1,0 +1,15 @@
+C:\Users\Yunus Emre\Desktop\CsTelefonRehberi\obj\Debug\net7.0\CsTelefonRehberi.csproj.AssemblyReference.cache
+C:\Users\Yunus Emre\Desktop\CsTelefonRehberi\obj\Debug\net7.0\CsTelefonRehberi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yunus Emre\Desktop\CsTelefonRehberi\obj\Debug\net7.0\CsTelefonRehberi.AssemblyInfoInputs.cache
+C:\Users\Yunus Emre\Desktop\CsTelefonRehberi\obj\Debug\net7.0\CsTelefonRehberi.AssemblyInfo.cs
+C:\Users\Yunus Emre\Desktop\CsTelefonRehberi\obj\Debug\net7.0\CsTelefonRehberi.csproj.CoreCompileInputs.cache
+C:\Users\Yunus Emre\Desktop\CsTelefonRehberi\bin\Debug\net7.0\CsTelefonRehberi.exe
+C:\Users\Yunus Emre\Desktop\CsTelefonRehberi\bin\Debug\net7.0\CsTelefonRehberi.deps.json
+C:\Users\Yunus Emre\Desktop\CsTelefonRehberi\bin\Debug\net7.0\CsTelefonRehberi.runtimeconfig.json
+C:\Users\Yunus Emre\Desktop\CsTelefonRehberi\bin\Debug\net7.0\CsTelefonRehberi.dll
+C:\Users\Yunus Emre\Desktop\CsTelefonRehberi\bin\Debug\net7.0\CsTelefonRehberi.pdb
+C:\Users\Yunus Emre\Desktop\CsTelefonRehberi\obj\Debug\net7.0\CsTelefonRehberi.dll
+C:\Users\Yunus Emre\Desktop\CsTelefonRehberi\obj\Debug\net7.0\refint\CsTelefonRehberi.dll
+C:\Users\Yunus Emre\Desktop\CsTelefonRehberi\obj\Debug\net7.0\CsTelefonRehberi.pdb
+C:\Users\Yunus Emre\Desktop\CsTelefonRehberi\obj\Debug\net7.0\CsTelefonRehberi.genruntimeconfig.cache
+C:\Users\Yunus Emre\Desktop\CsTelefonRehberi\obj\Debug\net7.0\ref\CsTelefonRehberi.dll
