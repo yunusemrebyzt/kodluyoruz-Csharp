@@ -1,0 +1,15 @@
+C:\Users\Yunus Emre\Desktop\CsProje2-ToDo\bin\Debug\net7.0\CsProje2-ToDo.exe
+C:\Users\Yunus Emre\Desktop\CsProje2-ToDo\bin\Debug\net7.0\CsProje2-ToDo.deps.json
+C:\Users\Yunus Emre\Desktop\CsProje2-ToDo\bin\Debug\net7.0\CsProje2-ToDo.runtimeconfig.json
+C:\Users\Yunus Emre\Desktop\CsProje2-ToDo\bin\Debug\net7.0\CsProje2-ToDo.dll
+C:\Users\Yunus Emre\Desktop\CsProje2-ToDo\bin\Debug\net7.0\CsProje2-ToDo.pdb
+C:\Users\Yunus Emre\Desktop\CsProje2-ToDo\obj\Debug\net7.0\CsProje2-ToDo.csproj.AssemblyReference.cache
+C:\Users\Yunus Emre\Desktop\CsProje2-ToDo\obj\Debug\net7.0\CsProje2-ToDo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yunus Emre\Desktop\CsProje2-ToDo\obj\Debug\net7.0\CsProje2-ToDo.AssemblyInfoInputs.cache
+C:\Users\Yunus Emre\Desktop\CsProje2-ToDo\obj\Debug\net7.0\CsProje2-ToDo.AssemblyInfo.cs
+C:\Users\Yunus Emre\Desktop\CsProje2-ToDo\obj\Debug\net7.0\CsProje2-ToDo.csproj.CoreCompileInputs.cache
+C:\Users\Yunus Emre\Desktop\CsProje2-ToDo\obj\Debug\net7.0\CsProje2-ToDo.dll
+C:\Users\Yunus Emre\Desktop\CsProje2-ToDo\obj\Debug\net7.0\refint\CsProje2-ToDo.dll
+C:\Users\Yunus Emre\Desktop\CsProje2-ToDo\obj\Debug\net7.0\CsProje2-ToDo.pdb
+C:\Users\Yunus Emre\Desktop\CsProje2-ToDo\obj\Debug\net7.0\CsProje2-ToDo.genruntimeconfig.cache
+C:\Users\Yunus Emre\Desktop\CsProje2-ToDo\obj\Debug\net7.0\ref\CsProje2-ToDo.dll
