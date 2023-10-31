@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Yunus Emre\\Desktop\\UcgenCizme\\OrtalamaHesaplama.csproj",
-      "projectName": "OrtalamaHesaplama",
-      "projectPath": "C:\\Users\\Yunus Emre\\Desktop\\UcgenCizme\\OrtalamaHesaplama.csproj",
+      "projectUniqueName": "C:\\Users\\Yunus Emre\\Desktop\\UcgenCizme\\UcgenCizme.csproj",
+      "projectName": "UcgenCizme",
+      "projectPath": "C:\\Users\\Yunus Emre\\Desktop\\UcgenCizme\\UcgenCizme.csproj",
       "packagesPath": "C:\\Users\\Yunus Emre\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\Yunus Emre\\Desktop\\UcgenCizme\\obj\\",
       "projectStyle": "PackageReference",

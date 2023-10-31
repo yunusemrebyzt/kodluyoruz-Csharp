@@ -1,0 +1,15 @@
+C:\Users\Yunus Emre\Desktop\UcgenCizme\bin\Debug\net7.0\UcgenCizme.exe
+C:\Users\Yunus Emre\Desktop\UcgenCizme\bin\Debug\net7.0\UcgenCizme.deps.json
+C:\Users\Yunus Emre\Desktop\UcgenCizme\bin\Debug\net7.0\UcgenCizme.runtimeconfig.json
+C:\Users\Yunus Emre\Desktop\UcgenCizme\bin\Debug\net7.0\UcgenCizme.dll
+C:\Users\Yunus Emre\Desktop\UcgenCizme\bin\Debug\net7.0\UcgenCizme.pdb
+C:\Users\Yunus Emre\Desktop\UcgenCizme\obj\Debug\net7.0\UcgenCizme.csproj.AssemblyReference.cache
+C:\Users\Yunus Emre\Desktop\UcgenCizme\obj\Debug\net7.0\UcgenCizme.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yunus Emre\Desktop\UcgenCizme\obj\Debug\net7.0\UcgenCizme.AssemblyInfoInputs.cache
+C:\Users\Yunus Emre\Desktop\UcgenCizme\obj\Debug\net7.0\UcgenCizme.AssemblyInfo.cs
+C:\Users\Yunus Emre\Desktop\UcgenCizme\obj\Debug\net7.0\UcgenCizme.csproj.CoreCompileInputs.cache
+C:\Users\Yunus Emre\Desktop\UcgenCizme\obj\Debug\net7.0\UcgenCizme.dll
+C:\Users\Yunus Emre\Desktop\UcgenCizme\obj\Debug\net7.0\refint\UcgenCizme.dll
+C:\Users\Yunus Emre\Desktop\UcgenCizme\obj\Debug\net7.0\UcgenCizme.pdb
+C:\Users\Yunus Emre\Desktop\UcgenCizme\obj\Debug\net7.0\UcgenCizme.genruntimeconfig.cache
+C:\Users\Yunus Emre\Desktop\UcgenCizme\obj\Debug\net7.0\ref\UcgenCizme.dll
