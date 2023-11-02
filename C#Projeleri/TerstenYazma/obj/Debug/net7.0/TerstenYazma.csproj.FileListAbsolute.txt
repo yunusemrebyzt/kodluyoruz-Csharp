@@ -1,0 +1,15 @@
+C:\Users\Yunus Emre\Desktop\TerstenYazma\bin\Debug\net7.0\TerstenYazma.exe
+C:\Users\Yunus Emre\Desktop\TerstenYazma\bin\Debug\net7.0\TerstenYazma.deps.json
+C:\Users\Yunus Emre\Desktop\TerstenYazma\bin\Debug\net7.0\TerstenYazma.runtimeconfig.json
+C:\Users\Yunus Emre\Desktop\TerstenYazma\bin\Debug\net7.0\TerstenYazma.dll
+C:\Users\Yunus Emre\Desktop\TerstenYazma\bin\Debug\net7.0\TerstenYazma.pdb
+C:\Users\Yunus Emre\Desktop\TerstenYazma\obj\Debug\net7.0\TerstenYazma.csproj.AssemblyReference.cache
+C:\Users\Yunus Emre\Desktop\TerstenYazma\obj\Debug\net7.0\TerstenYazma.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yunus Emre\Desktop\TerstenYazma\obj\Debug\net7.0\TerstenYazma.AssemblyInfoInputs.cache
+C:\Users\Yunus Emre\Desktop\TerstenYazma\obj\Debug\net7.0\TerstenYazma.AssemblyInfo.cs
+C:\Users\Yunus Emre\Desktop\TerstenYazma\obj\Debug\net7.0\TerstenYazma.csproj.CoreCompileInputs.cache
+C:\Users\Yunus Emre\Desktop\TerstenYazma\obj\Debug\net7.0\TerstenYazma.dll
+C:\Users\Yunus Emre\Desktop\TerstenYazma\obj\Debug\net7.0\refint\TerstenYazma.dll
+C:\Users\Yunus Emre\Desktop\TerstenYazma\obj\Debug\net7.0\TerstenYazma.pdb
+C:\Users\Yunus Emre\Desktop\TerstenYazma\obj\Debug\net7.0\TerstenYazma.genruntimeconfig.cache
+C:\Users\Yunus Emre\Desktop\TerstenYazma\obj\Debug\net7.0\ref\TerstenYazma.dll
