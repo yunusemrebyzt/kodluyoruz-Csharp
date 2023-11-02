@@ -6,14 +6,42 @@
         {
             Console.WriteLine("Bir cümle giriniz: ");
             string metin = Console.ReadLine();
+            char harf;
+            string[] kelimeler = metin.Split(" "); 
 
-            char[] harfler = metin.ToCharArray();
+            for(int i=0;i<kelimeler.Length;i++)
+            {
+                
+                    kelimeler[i] = TersiniAl(kelimeler[i]);
 
-            Array.Reverse(harfler);
+                
+            }
 
-            string tersMetin = new string(harfler);
+            
 
-            Console.WriteLine(tersMetin);
+            foreach (string eleman in kelimeler)
+        {
+            Console.Write(eleman +" ");
+        }
+        }
+
+        static string TersiniAl(string kelime)
+        {
+            char[] harfler = kelime.ToCharArray();
+            
+            char harf = harfler[0];
+            for(int i=0;i<harfler.Length-1;i++)
+            {
+                
+                    
+                    harfler[i] = harfler[i+1];
+       
+            }
+            harfler[harfler.Length-1] = harf;
+
+            return new string(harfler);
+
+
         }
     }
 }
