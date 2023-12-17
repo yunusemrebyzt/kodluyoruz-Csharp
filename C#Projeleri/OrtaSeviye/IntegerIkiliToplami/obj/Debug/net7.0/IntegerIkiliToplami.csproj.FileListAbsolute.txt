@@ -1,0 +1,15 @@
+C:\Users\Yunus Emre\Desktop\IntegerIkiliToplami\bin\Debug\net7.0\IntegerIkiliToplami.exe
+C:\Users\Yunus Emre\Desktop\IntegerIkiliToplami\bin\Debug\net7.0\IntegerIkiliToplami.deps.json
+C:\Users\Yunus Emre\Desktop\IntegerIkiliToplami\bin\Debug\net7.0\IntegerIkiliToplami.runtimeconfig.json
+C:\Users\Yunus Emre\Desktop\IntegerIkiliToplami\bin\Debug\net7.0\IntegerIkiliToplami.dll
+C:\Users\Yunus Emre\Desktop\IntegerIkiliToplami\bin\Debug\net7.0\IntegerIkiliToplami.pdb
+C:\Users\Yunus Emre\Desktop\IntegerIkiliToplami\obj\Debug\net7.0\IntegerIkiliToplami.csproj.AssemblyReference.cache
+C:\Users\Yunus Emre\Desktop\IntegerIkiliToplami\obj\Debug\net7.0\IntegerIkiliToplami.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yunus Emre\Desktop\IntegerIkiliToplami\obj\Debug\net7.0\IntegerIkiliToplami.AssemblyInfoInputs.cache
+C:\Users\Yunus Emre\Desktop\IntegerIkiliToplami\obj\Debug\net7.0\IntegerIkiliToplami.AssemblyInfo.cs
+C:\Users\Yunus Emre\Desktop\IntegerIkiliToplami\obj\Debug\net7.0\IntegerIkiliToplami.csproj.CoreCompileInputs.cache
+C:\Users\Yunus Emre\Desktop\IntegerIkiliToplami\obj\Debug\net7.0\IntegerIkiliToplami.dll
+C:\Users\Yunus Emre\Desktop\IntegerIkiliToplami\obj\Debug\net7.0\refint\IntegerIkiliToplami.dll
+C:\Users\Yunus Emre\Desktop\IntegerIkiliToplami\obj\Debug\net7.0\IntegerIkiliToplami.pdb
+C:\Users\Yunus Emre\Desktop\IntegerIkiliToplami\obj\Debug\net7.0\IntegerIkiliToplami.genruntimeconfig.cache
+C:\Users\Yunus Emre\Desktop\IntegerIkiliToplami\obj\Debug\net7.0\ref\IntegerIkiliToplami.dll
