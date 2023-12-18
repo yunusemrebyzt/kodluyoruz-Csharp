@@ -1,0 +1,15 @@
+C:\Users\Yunus Emre\Desktop\MutlaKareAlma\bin\Debug\net7.0\MutlaKareAlma.exe
+C:\Users\Yunus Emre\Desktop\MutlaKareAlma\bin\Debug\net7.0\MutlaKareAlma.deps.json
+C:\Users\Yunus Emre\Desktop\MutlaKareAlma\bin\Debug\net7.0\MutlaKareAlma.runtimeconfig.json
+C:\Users\Yunus Emre\Desktop\MutlaKareAlma\bin\Debug\net7.0\MutlaKareAlma.dll
+C:\Users\Yunus Emre\Desktop\MutlaKareAlma\bin\Debug\net7.0\MutlaKareAlma.pdb
+C:\Users\Yunus Emre\Desktop\MutlaKareAlma\obj\Debug\net7.0\MutlaKareAlma.csproj.AssemblyReference.cache
+C:\Users\Yunus Emre\Desktop\MutlaKareAlma\obj\Debug\net7.0\MutlaKareAlma.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yunus Emre\Desktop\MutlaKareAlma\obj\Debug\net7.0\MutlaKareAlma.AssemblyInfoInputs.cache
+C:\Users\Yunus Emre\Desktop\MutlaKareAlma\obj\Debug\net7.0\MutlaKareAlma.AssemblyInfo.cs
+C:\Users\Yunus Emre\Desktop\MutlaKareAlma\obj\Debug\net7.0\MutlaKareAlma.csproj.CoreCompileInputs.cache
+C:\Users\Yunus Emre\Desktop\MutlaKareAlma\obj\Debug\net7.0\MutlaKareAlma.dll
+C:\Users\Yunus Emre\Desktop\MutlaKareAlma\obj\Debug\net7.0\refint\MutlaKareAlma.dll
+C:\Users\Yunus Emre\Desktop\MutlaKareAlma\obj\Debug\net7.0\MutlaKareAlma.pdb
+C:\Users\Yunus Emre\Desktop\MutlaKareAlma\obj\Debug\net7.0\MutlaKareAlma.genruntimeconfig.cache
+C:\Users\Yunus Emre\Desktop\MutlaKareAlma\obj\Debug\net7.0\ref\MutlaKareAlma.dll
