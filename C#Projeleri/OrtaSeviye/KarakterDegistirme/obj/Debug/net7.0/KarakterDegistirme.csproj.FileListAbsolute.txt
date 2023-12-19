@@ -1,0 +1,15 @@
+C:\Users\Yunus Emre\Desktop\KarakterDegistirme\bin\Debug\net7.0\KarakterDegistirme.exe
+C:\Users\Yunus Emre\Desktop\KarakterDegistirme\bin\Debug\net7.0\KarakterDegistirme.deps.json
+C:\Users\Yunus Emre\Desktop\KarakterDegistirme\bin\Debug\net7.0\KarakterDegistirme.runtimeconfig.json
+C:\Users\Yunus Emre\Desktop\KarakterDegistirme\bin\Debug\net7.0\KarakterDegistirme.dll
+C:\Users\Yunus Emre\Desktop\KarakterDegistirme\bin\Debug\net7.0\KarakterDegistirme.pdb
+C:\Users\Yunus Emre\Desktop\KarakterDegistirme\obj\Debug\net7.0\KarakterDegistirme.csproj.AssemblyReference.cache
+C:\Users\Yunus Emre\Desktop\KarakterDegistirme\obj\Debug\net7.0\KarakterDegistirme.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yunus Emre\Desktop\KarakterDegistirme\obj\Debug\net7.0\KarakterDegistirme.AssemblyInfoInputs.cache
+C:\Users\Yunus Emre\Desktop\KarakterDegistirme\obj\Debug\net7.0\KarakterDegistirme.AssemblyInfo.cs
+C:\Users\Yunus Emre\Desktop\KarakterDegistirme\obj\Debug\net7.0\KarakterDegistirme.csproj.CoreCompileInputs.cache
+C:\Users\Yunus Emre\Desktop\KarakterDegistirme\obj\Debug\net7.0\KarakterDegistirme.dll
+C:\Users\Yunus Emre\Desktop\KarakterDegistirme\obj\Debug\net7.0\refint\KarakterDegistirme.dll
+C:\Users\Yunus Emre\Desktop\KarakterDegistirme\obj\Debug\net7.0\KarakterDegistirme.pdb
+C:\Users\Yunus Emre\Desktop\KarakterDegistirme\obj\Debug\net7.0\KarakterDegistirme.genruntimeconfig.cache
+C:\Users\Yunus Emre\Desktop\KarakterDegistirme\obj\Debug\net7.0\ref\KarakterDegistirme.dll
